@@ -1,2 +1,2 @@
 # pyPlay
- Some of little problems is here with solutions.
+ Some of little Python problems is here with solutions.
