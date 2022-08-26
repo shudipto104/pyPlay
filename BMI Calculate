@@ -1,4 +1,5 @@
-Body mass index (BMI) is a value derived from the mass (weight) and  height of a person. the BMI is defined as the boidy mass de=ivided by the sqaure of the body height, and universally espressed in unites of kg/m2. What is the programe which is aska for the length and the weight of a person and return the BMI with category.
+# Body mass index (BMI) is a value derived from the mass (weight) and  height of a person. the BMI is defined as the boidy mass de=ivided by the sqaure of the body height, and universally espressed in unites of kg/m2. What is the programe which is aska for the length and the weight of a person and return the BMI with category.
+
 lenght = input("enter the length in metres: ")
 weight = input("enter the mass in kgs: ")
 lenght = float(lenght)
